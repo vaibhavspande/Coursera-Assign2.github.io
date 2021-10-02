@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#services-section h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#services{
+    width: 100px;
+    position: relative;
+    margin-left: 0px;
+}
+
+.container{
+   width: 100%;
+    
+} 
+ #container1{
+    
+    margin-left: 12px;
+    
+} 
+#container3{
+   
+    padding: 14px;
+    position: absolute;
+    top: 300px;
+    width: 100px;
+    height: 2500px;
+    
+}
