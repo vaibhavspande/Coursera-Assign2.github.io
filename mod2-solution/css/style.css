@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+#services{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+}
+
+#services .container{
+    border: 1px solid red;
+    padding: 5px 6px;
+    margin: 30px ;
+    background-color: rgb(219, 213, 219);
+    width: 440px;
+    position: relative;
+    justify-content: center;
+    /* display: flex; */
+}
+#services .container p{
+    
+    padding: 20px ;
+    text-align: justify;
+   
+}
+p1.box1{
+    position: absolute;
+    border: 1px solid black;
+    width: 81px;
+    height: 25px;
+    top: 0;
+    right: 0;
+    background-color: lightpink;
+    
+    
+}
+p1.box2{
+    position: absolute;
+    border: 1px solid black;
+    width: 81px;
+    height: 25px;
+    top: 0;
+    right: 0;
+    background-color: brown;
+    color: white;
+
+}
+p1.box3{
+    position: absolute;
+    border: 1px solid black;
+    width: 81px;
+    height: 25px;
+    top: 0;
+    right: 0;
+    background-color: burlywood;
+
+}
+p2{
+    background-color: lightpink;
+}
+.center{
+    text-align: center;
+    /* color: white; */
+}
+.h-primary{
+    font-size: 35px;
+    padding:15px;
+    margin-top: 10px;
+
+}
+.h-secondary{
+    font-size: 25px;
+    padding: 2px;
+}
