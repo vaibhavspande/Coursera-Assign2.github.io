@@ -1,0 +1,21 @@
+.mt-5{
+    align-items: center;
+    text-align: center;
+}
+.d-flex{
+    align-items: center;
+    /* text-align: center; */
+    justify-content: center;
+}
+.mt-4{
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 0px;
+    background-color:lightgray;
+}
+nav{
+    background-color: lightgray;
+    color: black;
+
+    border: 1px solid black;
+}
